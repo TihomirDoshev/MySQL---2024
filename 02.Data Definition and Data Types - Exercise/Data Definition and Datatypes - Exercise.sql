@@ -1,3 +1,4 @@
+
 CREATE DATABASE minions;
 
 -- 1
@@ -347,3 +348,9 @@ FROM
 UPDATE `employees`
 SET `salary` = `salary` * 1.1; -- To disable safe mode, toggle the option in Preferences -> SQL Editor and reconnect.You cannot update without WHERE in Sefe mode. 
 SELECT `salary` FROM `employees`; 
+
+
+
+
+
+    
